@@ -5,7 +5,7 @@
 Aplicación de chat en tiempo real desarrollada con **Spring Boot** en el backend y **Angular** en el frontend. La aplicación utiliza WebSocket para manejar la comunicación en tiempo real entre los usuarios.
  
 ## Características principales 
- 
+
 - **Actualizaciones en tiempo real**: Los mensajes se envían y reciben al instante mediante WebSocket.
 - **Arquitectura cliente-servidor**: El backend gestiona la lógica de negocio y la comunicación, mientras que el frontend ofrece una interfaz de usuario moderna.
 - **Tecnologías utilizadas**:
