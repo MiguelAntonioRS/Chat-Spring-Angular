@@ -30,7 +30,7 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado:
    git clone https://github.com/MiguelAntonioRS/Chat-Spring-Angular.git
    cd Chat-Spring-Angular/backend
    ```
-
+   
 2. Compila y ejecuta el backend:
    ```bash
    mvn clean install
