@@ -13,7 +13,7 @@ Aplicación de chat en tiempo real desarrollada con **Spring Boot** en el backen
   - Frontend: Angular.
  
 ## Requisitos previos
- 
+
 Antes de ejecutar la aplicación, asegúrate de tener instalado:
 
 - **Java 11** o superior.
