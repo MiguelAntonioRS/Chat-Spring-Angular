@@ -14,7 +14,7 @@ Aplicación de chat en tiempo real desarrollada con **Spring Boot** en el backen
 
 ## Requisitos previos
 
-Antes de ejecutar la aplicación, asegúrate de tener instalado: 
+Antes de ejecutar la aplicación, asegúrate de tener instalado:
 
 - **Java 11** o superior.
 - **Node.js** y **npm**.
