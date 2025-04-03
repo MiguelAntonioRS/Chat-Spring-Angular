@@ -8,7 +8,7 @@ Aplicación de chat en tiempo real desarrollada con **Spring Boot** en el backen
 
 - **Actualizaciones en tiempo real**: Los mensajes se envían y reciben al instante mediante WebSocket.
 - **Arquitectura cliente-servidor**: El backend gestiona la lógica de negocio y la comunicación, mientras que el frontend ofrece una interfaz de usuario moderna.
-- **Tecnologías utilizadas**: 
+- **Tecnologías utilizadas**:
   - Backend: Spring Boot, WebSocket.
   - Frontend: Angular.
 
