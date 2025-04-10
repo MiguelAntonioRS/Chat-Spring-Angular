@@ -12,7 +12,7 @@ Aplicación de chat en tiempo real desarrollada con **Spring Boot** en el backen
   - Backend: Spring Boot, WebSocket.
   - Frontend: Angular.
 
-## Requisitos previos
+## Requisitos previos 
 
 Antes de ejecutar la aplicación, asegúrate de tener instalado:
 
