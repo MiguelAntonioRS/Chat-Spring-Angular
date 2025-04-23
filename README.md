@@ -2,7 +2,7 @@
  
 ![Chat image](Chat.jpg)
 
-Aplicación de chat en tiempo real desarrollada con **Spring Boot** en el backend y **Angular** en el frontend. La aplicación utiliza WebSocket para manejar la comunicación en tiempo real entre los usuarios. 
+Aplicación de chat en tiempo real desarrollada con **Spring Boot** en el backend y **Angular** en el frontend. La aplicación utiliza WebSocket para manejar la comunicación en tiempo real entre los usuarios.
 
 ## Características principales 
 
