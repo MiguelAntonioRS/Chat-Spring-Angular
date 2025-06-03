@@ -2,71 +2,81 @@
 
 ![Chat image](Chat.jpg)
 
-Aplicación de chat en tiempo real desarrollada con **Spring Boot** en el backend y **Angular** en el frontend. La aplicación utiliza WebSocket para manejar la comunicación en tiempo real entre los usuarios.
+# 🚀 Real-Time Chat Application
 
-## Características principales
+A real-time chat application built with **Spring Boot** (backend) and **Angular** (frontend). This app uses **WebSocket** for instant message delivery between users.
 
-- **Actualizaciones en tiempo real**: Los mensajes se envían y reciben al instante mediante WebSocket.
-- **Arquitectura cliente-servidor**: El backend gestiona la lógica de negocio y la comunicación, mientras que el frontend ofrece una interfaz de usuario moderna.
-- **Tecnologías utilizadas**:
-  - Backend: Spring Boot, WebSocket.
-  - Frontend: Angular.
+---
 
-## Requisitos previos
+## 🧩 Main Features
 
-Antes de ejecutar la aplicación, asegúrate de tener instalado:
+- ✅ **Real-time updates**: Messages are sent and received instantly using WebSocket.
+- 🏗️ **Client-server architecture**: Backend handles business logic and communication, while the frontend provides a modern user interface.
+- 💡 **Tech Stack**:
+  - **Backend**: Spring Boot, WebSocket
+  - **Frontend**: Angular, TypeScript, HTML/CSS
 
-- **Java 11** o superior.
-- **Node.js** y **npm**.
-- **Angular CLI**.
-- **Maven**.
+---
 
-## Configuración y ejecución
+## 🛠️ Prerequisites
+
+Before running the application, make sure you have the following installed:
+
+- **Java 11** or higher
+- **Node.js** and **npm**
+- **Angular CLI**
+- **Maven**
+
+---
+
+## ⚙️ Setup & Running Instructions
 
 ### Backend (Spring Boot)
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/MiguelAntonioRS/Chat-Spring-Angular.git
-   cd Chat-Spring-Angular/backend
-   ```
+Clone the repository:
+```bash
+git clone https://github.com/MiguelAntonioRS/Chat-Spring-Angular.git 
+cd Chat-Spring-Angular/backend
+```
    
-2. Compila y ejecuta el backend:
+Build and run the backend:
    ```bash
    mvn clean install
    mvn spring-boot:run
    ```
 
-3. El backend estará disponible en `http://localhost:8080`.
+The backend will be available at:
+👉 http://localhost:8080 
 
 ### Frontend (Angular)
 
-1. Navega al directorio del frontend:
+Navigate to the frontend directory:
    ```bash
    cd Chat-Spring-Angular/frontend
    ```
 
-2. Instala las dependencias:
+Install dependencies:
    ```bash
    npm install
    ```
 
-3. Inicia el servidor de desarrollo:
+Start the development server:
    ```bash
    ng serve
    ```
 
-4. El frontend estará disponible en `http://localhost:4200`.
+The frontend will be available at:
+👉 http://localhost:4200
 
-## Estructura del proyecto
+📁 Project Structure
 
 ```
 Chat-Spring-Angular/
-├── backend/        # Código fuente del backend (Spring Boot)
-└── frontend/       # Código fuente del frontend (Angular)
+├── backend/        # Backend source code (Spring Boot)
+└── frontend/       # Frontend source code (Angular)
 ```
 
-## Tecnologías utilizadas
+## 🛰️ Technologies Used
 
 ### Backend
 - Spring Boot
@@ -79,16 +89,22 @@ Chat-Spring-Angular/
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Si deseas contribuir:
+🤝 Contributing 
 
-1. Haz un fork del repositorio.
-2. Crea una rama para tu función o corrección de errores:
+Contributions are welcome! If you'd like to contribute: 
+
+  1.Fork the repository.
+  
+  2. Create a new branch for your feature or bugfix:
+    
    ```bash
-   git checkout -b feature/nueva-funcion
+   git checkout -b feature/new-feature
    ```
-3. Realiza tus cambios y haz un commit:
+
+3. Make your changes and commit them:
+
    ```bash
-   git commit -m "Agregada nueva función"
+   git commit -m "Add new feature"
    ```
    
 © 2025 Miguel Antonio Rojas Sucarino
