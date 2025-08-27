@@ -6,7 +6,7 @@
 
 A real-time chat application built with **Spring Boot** (backend) and **Angular** (frontend). This app uses **WebSocket** for instant message delivery between users.
 
---- 
+---
  
 ## 🧩 Main Features
 
