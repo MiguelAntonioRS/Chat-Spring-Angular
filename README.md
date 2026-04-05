@@ -15,7 +15,7 @@ A real-time chat application built with **Spring Boot** (backend) and **Angular*
 - 💡 **Tech Stack**:
   - **Backend**: Spring Boot, WebSocket
   - **Frontend**: Angular, TypeScript, HTML/CSS
-
+ 
 ---
 
 ## 🛠️ Prerequisites
