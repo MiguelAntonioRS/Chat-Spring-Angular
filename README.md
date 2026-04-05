@@ -2,7 +2,7 @@
 
 ![Chat image](Chat.jpg)
 
-# 🚀 Real-Time Chat Application 
+# 🚀 Real-Time Chat Application
 
 A real-time chat application built with **Spring Boot** (backend) and **Angular** (frontend). This app uses **WebSocket** for instant message delivery between users.
 
