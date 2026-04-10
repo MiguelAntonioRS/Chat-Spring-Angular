@@ -11,7 +11,7 @@ A real-time chat application built with **Spring Boot** (backend) and **Angular*
 ## 🧩 Main Features 
  
 - ✅ **Real-time updates**: Messages are sent and received instantly using WebSocket.
-- 🏗️ **Client-server architecture**: Backend handles business logic and communication, while the frontend provides a modern user interface.
+- 🏗️ **Client-server architecture**: Backend handles business logic and communication, while the frontend provides a modern user interface. 
 - 💡 **Tech Stack**:
   - **Backend**: Spring Boot, WebSocket
   - **Frontend**: Angular, TypeScript, HTML/CSS
